@@ -13,3 +13,20 @@ Este projeto "AluraBooks" foi criado com foco em uma interface intuitiva para pr
 - Carrosséis interativos com Swiper.js
 
 # Mobile
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c3f0d231-d16b-4ad3-9710-1f8bbacde9bd" width="250px"/>
+  <img src="https://github.com/user-attachments/assets/fbc96a8b-c2b6-47ea-a32e-58c26cd27f33" width="250px"/>
+  <img src="https://github.com/user-attachments/assets/f8ad3b3e-33a7-403c-b03a-f79d631f75cc" width="250px"/>
+</div>
+
+# Tablet
+<div align="center">
+  <img src="" width="250px"/>
+  <img src="" width="250px"/>
+</div>
+
+# Desktop
+<div align="center">
+  <img src="" width="250px"/>
+  <img src="" width="250px"/>
+</div>
