@@ -18,6 +18,6 @@ Desenvolvi esse projeto durante meu periodo de inicialização em HTML e CSS
 ## 🔗 Acesso
 
 Caso queira visualizar o projeto, acesse:
-alurabooks-6csusze5n-luizhrjunqueiras-projects.vercel.app
+https://alurabooks-git-main-luizhrjunqueiras-projects.vercel.app/
 
 Caso inspecione a página para visualizar o layout mobile, peço que aperte F5 para recarregar a página.
