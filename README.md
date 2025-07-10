@@ -1,4 +1,4 @@
-# Ngz Camp - Página Inicial do Campeonato
+# Alura Books - Loja virtual de livros
 
 Este projeto foi feito com a intenção de desenvolver uma loja virtual de livros. 
 Projeto desenvolvido durante o curso de inicialização a HTML E CSS da Alura.
@@ -9,6 +9,7 @@ Projeto desenvolvido durante o curso de inicialização a HTML E CSS da Alura.
 - **Swiper JS** para:
   - Carrossel funcional, foi utilizado uma API**
 - Layout **100% responsivo** e pensado para uma boa experiência em todos os dispositivos
+- Menu Hamburger totalmente desenvolvido com html e css
 
 ## 👨‍💻 Desenvolvedor
 
